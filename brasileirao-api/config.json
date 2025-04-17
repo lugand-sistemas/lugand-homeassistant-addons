@@ -1,0 +1,13 @@
+{
+    "name": "Brasileirão API",
+    "version": "1.0.0",
+    "slug": "brasileirao_api",
+    "description": "Servidor Rust que serve dados do campeonato brasileiro",
+    "startup": "services",
+    "boot": "auto",
+    "options": {},
+    "schema": {},
+    "ports": {
+        "8080/tcp": 8080
+    }
+}
